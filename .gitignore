@@ -59,4 +59,4 @@ knownkeys.txt
 
 
 # Server Pack
-# .github/buildtools/serverpack/*
+.github/buildtools/serverpack/*
