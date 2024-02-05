@@ -1,0 +1,62 @@
+
+# Configs
+config/jei/world/*
+config/roughlyenoughitems/changelog.txt
+config/roughlyenoughitems/hints.json
+config/roughlyenoughitems/pinyin.properties
+config/roughlyenoughitems/pinyin_double.properties
+config/oculus.properties
+config/smoothboot.json
+config/fml.toml
+config/forge-client.toml
+config/chiselsandbits-client.toml
+config/chiselsandbits-common.toml
+config/xaerominimap_entities.json
+config/voicechat/username-cache.json
+
+# .minecraft
+crash-reports/*
+logs/*
+saves/*
+ldlib/
+local/*
+modernfix/*
+XaeroWaypoints*
+XaeroWorldMap/*
+CustomSkinLoader/*
+screenshots/*
+shaderpacks/*
+chiselsandbits/*
+.vscode/
+
+# Extensions
+**/*.log
+**/*.gz
+**/*.DS_Store
+**/*.jar
+
+# Client data
+.idea/
+.curseclient
+.sl_password
+options.txt
+patchouli_data.json
+usernamecache.json
+usercache.json
+rhino.local.properties
+fancymenu_data/last_world.fmdata
+profile.json
+emi.json
+servers.dat
+servers.dat_old
+cherishedworlds-favorites.dat
+realms_persistence.json
+minecraftinstance.json
+knownkeys.txt
+
+*.code-workspace
+*.zip
+
+
+# Server Pack
+.github/buildtools/serverpack/*
